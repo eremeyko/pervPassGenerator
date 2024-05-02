@@ -1,2 +1,1 @@
-from random import sample
-print((''.join(sample('abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%&*\';?()[]{}', 78)))[:int(input('Какой длины пароль: '))])
+print((lambda w: (''.join(w))[:int(input('Какой длины пароль: '))])(__import__('random').sample(__import__('string').ascii_letters + __import__('string').digits + __import__('string').punctuation, 94)))
