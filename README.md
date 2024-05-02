@@ -15,7 +15,7 @@ In general, I present to your attention (if anyone is watching at all)...
 > Q: What would a normal code look like?
 > > A: A normal code would look like this:
 
-[True C0de](https://github.com/eremeyko/pervPassGenerator#True%20C0de)
+[True C0de](https://github.com/eremeyko/pervPassGenerator#true-c0de)
 
 ## RU
 Листая репозитории гитхаба, я всё чаще и чаще натыкался на генераторы паролей. И удивлялся: **почему так много строк?!**
